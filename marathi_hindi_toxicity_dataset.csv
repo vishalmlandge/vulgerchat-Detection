@@ -1,0 +1,1038 @@
+id,comment_text,toxic,severe_toxic,obscene,threat,insult,identity_hate
+1,abe gandu kya bolta hai,1,0,1,0,1,0
+2,tu kasa ahes?,0,0,0,0,0,0
+3,ye pagal kya kar raha hai,1,0,0,0,1,0
+4,aaj khup chan vatatay,0,0,0,0,0,0
+5,tu chutiya hai kya?,1,0,1,0,1,0
+6,mazya dostala bhetun khush zalo,0,0,0,0,0,0
+7,bhenchod band kar ye bakwas,1,1,1,0,1,0
+8,tu khup sundar distes,0,0,0,0,0,0
+9,madarchod kahi ka,1,1,1,0,1,0
+10,aaj khup thandi ahe,0,0,0,0,0,0
+11,gandu mat bol yar,1,0,1,0,1,0
+12,tula kahi problem ahe ka?,0,0,0,0,0,0
+13,chutiya sala kya sochta hai,1,0,1,0,1,0
+14,mi tula khup miss karto,0,0,0,0,0,0
+15,pagalpan band kar abhi,1,0,0,0,1,0
+16,tu maza hero ahes,0,0,0,0,0,0
+17,abe harami kya chal raha,1,0,1,0,1,0
+18,kal khup majja keli,0,0,0,0,0,0
+19,tu kutta hai kya,1,0,1,0,1,0
+20,mi tula prem karto,0,0,0,0,0,0
+21,abe randi kya bolti hai,1,1,1,0,1,1
+22,tu khup smart ahes,0,0,0,0,0,0
+23,ye bakchod kya karta hai,1,0,1,0,1,0
+24,mi khup khush ahe,0,0,0,0,0,0
+25,tu gandu sala hai,1,0,1,0,1,0
+26,aaj khup divas chan ahe,0,0,0,0,0,0
+27,chutiya kya soch raha hai,1,0,1,0,1,0
+28,tu mazi best friend ahes,0,0,0,0,0,0
+29,abe kutta band kar,1,0,1,0,1,0
+30,mi tujhya sobat time ghala,0,0,0,0,0,0
+31,pagal kahi ka mat bol,1,0,0,0,1,0
+32,tula kasa vatata ahe?,0,0,0,0,0,0
+33,harami kya chal raha hai,1,0,1,0,1,0
+34,mi tujhya sobat khush ahe,0,0,0,0,0,0
+35,bhenchod kya kar raha hai,1,1,1,0,1,0
+36,tu khup talent ahes,0,0,0,0,0,0
+37,madarchod kya bolta hai,1,1,1,0,1,0
+38,aaj khup chan hava ahe,0,0,0,0,0,0
+39,gandu kya sochta hai,1,0,1,0,1,0
+40,tu maza favorite ahes,0,0,0,0,0,0
+41,chutiya kahi ka,1,0,1,0,1,0
+42,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+43,pagal mat kar abhi,1,0,0,0,1,0
+44,tu khup mast distes,0,0,0,0,0,0
+45,abe kutta kya bolta hai,1,0,1,0,1,0
+46,mi tujhya sobat time pass karto,0,0,0,0,0,0
+47,harami band kar ye,1,0,1,0,1,0
+48,tu khup intelligent ahes,0,0,0,0,0,0
+49,bakchod kya kar raha hai,1,0,1,0,1,0
+50,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+51,abe gandu kya sochta hai,1,0,1,0,1,0
+52,tu kasa dista ahes?,0,0,0,0,0,0
+53,ye chutiya kya bolta hai,1,0,1,0,1,0
+54,aaj khup sundar divas ahe,0,0,0,0,0,0
+55,pagal kya kar raha hai,1,0,0,0,1,0
+56,tu maza khup chan dost ahes,0,0,0,0,0,0
+57,harami kya karta hai,1,0,1,0,1,0
+58,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+59,kutta kya sochta hai,1,0,1,0,1,0
+60,tu khup helpful ahes,0,0,0,0,0,0
+61,abe randi kya kar raha,1,1,1,0,1,1
+62,tu khup chan manus ahes,0,0,0,0,0,0
+63,bakchod mat bol yar,1,0,1,0,1,0
+64,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+65,gandu kya chal raha hai,1,0,1,0,1,0
+66,aaj khup mast mood ahe,0,0,0,0,0,0
+67,chutiya kya karta hai,1,0,1,0,1,0
+68,tu maza inspiration ahes,0,0,0,0,0,0
+69,pagal band kar abhi,1,0,0,0,1,0
+70,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+71,abe harami kya sochta hai,1,0,1,0,1,0
+72,tu khup hardworking ahes,0,0,0,0,0,0
+73,kutta kya kar raha hai,1,0,1,0,1,0
+74,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+75,bhenchod kya bolta hai,1,1,1,0,1,0
+76,tu maza role model ahes,0,0,0,0,0,0
+77,madarchod kya karta hai,1,1,1,0,1,0
+78,aaj khup chan vatatay na?,0,0,0,0,0,0
+79,gandu kya karta hai,1,0,1,0,1,0
+80,tu khup talented ahes,0,0,0,0,0,0
+81,chutiya mat bol yar,1,0,1,0,1,0
+82,mi tujhya sobat khup time kela,0,0,0,0,0,0
+83,pagal kya sochta hai,1,0,0,0,1,0
+84,tu khup sundar ahes,0,0,0,0,0,0
+85,abe kutta kya karta hai,1,0,1,0,1,0
+86,mi tujhya sobat khup majja keli,0,0,0,0,0,0
+87,harami kya bolta hai,1,0,1,0,1,0
+88,tu maza favorite dost ahes,0,0,0,0,0,0
+89,bakchod kya sochta hai,1,0,1,0,1,0
+90,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+91,abe gandu kya karta hai,1,0,1,0,1,0
+92,tu kasa ahes aaj?,0,0,0,0,0,0
+93,ye chutiya kya karta hai,1,0,1,0,1,0
+94,aaj khup chan hava vatatay,0,0,0,0,0,0
+95,pagal kya bolta hai,1,0,0,0,1,0
+96,tu maza khup chan friend ahes,0,0,0,0,0,0
+97,harami kya sochta hai,1,0,1,0,1,0
+98,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+99,kutta kya bolta hai,1,0,1,0,1,0
+100,tu khup mast manus ahes,0,0,0,0,0,0
+101,abe randi kya sochta hai,1,1,1,0,1,1
+102,tu khup smart dista ahes,0,0,0,0,0,0
+103,bakchod kya bolta hai,1,0,1,0,1,0
+104,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+105,gandu kya sochta hai,1,0,1,0,1,0
+106,aaj khup sundar divas ahe,0,0,0,0,0,0
+107,chutiya kya sochta hai,1,0,1,0,1,0
+108,tu maza best friend ahes,0,0,0,0,0,0
+109,pagal kya karta hai,1,0,0,0,1,0
+110,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+111,abe harami kya karta hai,1,0,1,0,1,0
+112,tu khup hardworking dista ahes,0,0,0,0,0,0
+113,kutta kya sochta hai,1,0,1,0,1,0
+114,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+115,bhenchod kya sochta hai,1,1,1,0,1,0
+116,tu maza role model ahes,0,0,0,0,0,0
+117,madarchod kya sochta hai,1,1,1,0,1,0
+118,aaj khup chan vatatay na?,0,0,0,0,0,0
+119,gandu kya bolta hai,1,0,1,0,1,0
+120,tu khup talented dista ahes,0,0,0,0,0,0
+121,chutiya kya bolta hai,1,0,1,0,1,0
+122,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+123,pagal kya sochta hai,1,0,0,0,1,0
+124,tu khup sundar dista ahes,0,0,0,0,0,0
+125,abe kutta kya sochta hai,1,0,1,0,1,0
+126,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+127,harami kya karta hai,1,0,1,0,1,0
+128,tu maza favorite dost ahes,0,0,0,0,0,0
+129,bakchod kya karta hai,1,0,1,0,1,0
+130,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+131,abe gandu kya karta hai,1,0,1,0,1,0
+132,tu kasa dista ahes aaj?,0,0,0,0,0,0
+133,ye chutiya kya karta hai,1,0,1,0,1,0
+134,aaj khup chan hava vatatay,0,0,0,0,0,0
+135,pagal kya bolta hai,1,0,0,0,1,0
+136,tu maza khup chan friend ahes,0,0,0,0,0,0
+137,harami kya sochta hai,1,0,1,0,1,0
+138,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+139,kutta kya bolta hai,1,0,1,0,1,0
+140,tu khup mast manus dista ahes,0,0,0,0,0,0
+141,abe randi kya karta hai,1,1,1,0,1,1
+142,tu khup smart dista ahes,0,0,0,0,0,0
+143,bakchod kya sochta hai,1,0,1,0,1,0
+144,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+145,gandu kya karta hai,1,0,1,0,1,0
+146,aaj khup sundar divas ahe,0,0,0,0,0,0
+147,chutiya kya karta hai,1,0,1,0,1,0
+148,tu maza best friend dista ahes,0,0,0,0,0,0
+149,pagal kya karta hai,1,0,0,0,1,0
+150,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+151,abe harami kya karta hai,1,0,1,0,1,0
+152,tu khup hardworking dista ahes,0,0,0,0,0,0
+153,kutta kya karta hai,1,0,1,0,1,0
+154,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+155,bhenchod kya karta hai,1,1,1,0,1,0
+156,tu maza role model dista ahes,0,0,0,0,0,0
+157,madarchod kya karta hai,1,1,1,0,1,0
+158,aaj khup chan vatatay na?,0,0,0,0,0,0
+159,gandu kya karta hai,1,0,1,0,1,0
+160,tu khup talented dista ahes,0,0,0,0,0,0
+161,chutiya kya karta hai,1,0,1,0,1,0
+162,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+163,pagal kya karta hai,1,0,0,0,1,0
+164,tu khup sundar dista ahes,0,0,0,0,0,0
+165,abe kutta kya karta hai,1,0,1,0,1,0
+166,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+167,harami kya karta hai,1,0,1,0,1,0
+168,tu maza favorite dost dista ahes,0,0,0,0,0,0
+169,bakchod kya karta hai,1,0,1,0,1,0
+170,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+171,abe gandu kya karta hai,1,0,1,0,1,0
+172,tu kasa dista ahes aaj?,0,0,0,0,0,0
+173,ye chutiya kya karta hai,1,0,1,0,1,0
+174,aaj khup chan hava vatatay,0,0,0,0,0,0
+175,pagal kya karta hai,1,0,0,0,1,0
+176,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+177,harami kya karta hai,1,0,1,0,1,0
+178,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+179,kutta kya karta hai,1,0,1,0,1,0
+180,tu khup mast manus dista ahes,0,0,0,0,0,0
+181,abe randi kya karta hai,1,1,1,0,1,1
+182,tu khup smart dista ahes,0,0,0,0,0,0
+183,bakchod kya karta hai,1,0,1,0,1,0
+184,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+185,gandu kya karta hai,1,0,1,0,1,0
+186,aaj khup sundar divas ahe,0,0,0,0,0,0
+187,chutiya kya karta hai,1,0,1,0,1,0
+188,tu maza best friend dista ahes,0,0,0,0,0,0
+189,pagal kya karta hai,1,0,0,0,1,0
+190,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+191,abe harami kya karta hai,1,0,1,0,1,0
+192,tu khup hardworking dista ahes,0,0,0,0,0,0
+193,kutta kya karta hai,1,0,1,0,1,0
+194,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+195,bhenchod kya karta hai,1,1,1,0,1,0
+196,tu maza role model dista ahes,0,0,0,0,0,0
+197,madarchod kya karta hai,1,1,1,0,1,0
+198,aaj khup chan vatatay na?,0,0,0,0,0,0
+199,gandu kya karta hai,1,0,1,0,1,0
+200,tu khup talented dista ahes,0,0,0,0,0,0
+201,chutiya kya karta hai,1,0,1,0,1,0
+202,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+203,pagal kya karta hai,1,0,0,0,1,0
+204,tu khup sundar dista ahes,0,0,0,0,0,0
+205,abe kutta kya karta hai,1,0,1,0,1,0
+206,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+207,harami kya karta hai,1,0,1,0,1,0
+208,tu maza favorite dost dista ahes,0,0,0,0,0,0
+209,bakchod kya karta hai,1,0,1,0,1,0
+210,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+211,abe gandu kya karta hai,1,0,1,0,1,0
+212,tu kasa dista ahes aaj?,0,0,0,0,0,0
+213,ye chutiya kya karta hai,1,0,1,0,1,0
+214,aaj khup chan hava vatatay,0,0,0,0,0,0
+215,pagal kya karta hai,1,0,0,0,1,0
+216,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+217,harami kya karta hai,1,0,1,0,1,0
+218,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+219,kutta kya karta hai,1,0,1,0,1,0
+220,tu khup mast manus dista ahes,0,0,0,0,0,0
+221,abe randi kya karta hai,1,1,1,0,1,1
+222,tu khup smart dista ahes,0,0,0,0,0,0
+223,bakchod kya karta hai,1,0,1,0,1,0
+224,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+225,gandu kya karta hai,1,0,1,0,1,0
+226,aaj khup sundar divas ahe,0,0,0,0,0,0
+227,chutiya kya karta hai,1,0,1,0,1,0
+228,tu maza best friend dista ahes,0,0,0,0,0,0
+229,pagal kya karta hai,1,0,0,0,1,0
+230,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+231,abe harami kya karta hai,1,0,1,0,1,0
+232,tu khup hardworking dista ahes,0,0,0,0,0,0
+233,kutta kya karta hai,1,0,1,0,1,0
+234,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+235,bhenchod kya karta hai,1,1,1,0,1,0
+236,tu maza role model dista ahes,0,0,0,0,0,0
+237,madarchod kya karta hai,1,1,1,0,1,0
+238,aaj khup chan vatatay na?,0,0,0,0,0,0
+239,gandu kya karta hai,1,0,1,0,1,0
+240,tu khup talented dista ahes,0,0,0,0,0,0
+241,chutiya kya karta hai,1,0,1,0,1,0
+242,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+243,pagal kya karta hai,1,0,0,0,1,0
+244,tu khup sundar dista ahes,0,0,0,0,0,0
+245,abe kutta kya karta hai,1,0,1,0,1,0
+246,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+247,harami kya karta hai,1,0,1,0,1,0
+248,tu maza favorite dost dista ahes,0,0,0,0,0,0
+249,bakchod kya karta hai,1,0,1,0,1,0
+250,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+251,abe gandu kya karta hai,1,0,1,0,1,0
+252,tu kasa dista ahes aaj?,0,0,0,0,0,0
+253,ye chutiya kya karta hai,1,0,1,0,1,0
+254,aaj khup chan hava vatatay,0,0,0,0,0,0
+255,pagal kya karta hai,1,0,0,0,1,0
+256,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+257,harami kya karta hai,1,0,1,0,1,0
+258,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+259,kutta kya karta hai,1,0,1,0,1,0
+260,tu khup mast manus dista ahes,0,0,0,0,0,0
+261,abe randi kya karta hai,1,1,1,0,1,1
+262,tu khup smart dista ahes,0,0,0,0,0,0
+263,bakchod kya karta hai,1,0,1,0,1,0
+264,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+265,gandu kya karta hai,1,0,1,0,1,0
+266,aaj khup sundar divas ahe,0,0,0,0,0,0
+267,chutiya kya karta hai,1,0,1,0,1,0
+268,tu maza best friend dista ahes,0,0,0,0,0,0
+269,pagal kya karta hai,1,0,0,0,1,0
+270,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+271,abe harami kya karta hai,1,0,1,0,1,0
+272,tu khup hardworking dista ahes,0,0,0,0,0,0
+273,kutta kya karta hai,1,0,1,0,1,0
+274,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+275,bhenchod kya karta hai,1,1,1,0,1,0
+276,tu maza role model dista ahes,0,0,0,0,0,0
+277,madarchod kya karta hai,1,1,1,0,1,0
+278,aaj khup chan vatatay na?,0,0,0,0,0,0
+279,gandu kya karta hai,1,0,1,0,1,0
+280,tu khup talented dista ahes,0,0,0,0,0,0
+281,chutiya kya karta hai,1,0,1,0,1,0
+282,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+283,pagal kya karta hai,1,0,0,0,1,0
+284,tu khup sundar dista ahes,0,0,0,0,0,0
+285,abe kutta kya karta hai,1,0,1,0,1,0
+286,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+287,harami kya karta hai,1,0,1,0,1,0
+288,tu maza favorite dost dista ahes,0,0,0,0,0,0
+289,bakchod kya karta hai,1,0,1,0,1,0
+290,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+291,abe gandu kya karta hai,1,0,1,0,1,0
+292,tu kasa dista ahes aaj?,0,0,0,0,0,0
+293,ye chutiya kya karta hai,1,0,1,0,1,0
+294,aaj khup chan hava vatatay,0,0,0,0,0,0
+295,pagal kya karta hai,1,0,0,0,1,0
+296,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+297,harami kya karta hai,1,0,1,0,1,0
+298,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+299,kutta kya karta hai,1,0,1,0,1,0
+300,tu khup mast manus dista ahes,0,0,0,0,0,0
+301,abe randi kya karta hai,1,1,1,0,1,1
+302,tu khup smart dista ahes,0,0,0,0,0,0
+303,bakchod kya karta hai,1,0,1,0,1,0
+304,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+305,gandu kya karta hai,1,0,1,0,1,0
+306,aaj khup sundar divas ahe,0,0,0,0,0,0
+307,chutiya kya karta hai,1,0,1,0,1,0
+308,tu maza best friend dista ahes,0,0,0,0,0,0
+309,pagal kya karta hai,1,0,0,0,1,0
+310,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+311,abe harami kya karta hai,1,0,1,0,1,0
+312,tu khup hardworking dista ahes,0,0,0,0,0,0
+313,kutta kya karta hai,1,0,1,0,1,0
+314,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+315,bhenchod kya karta hai,1,1,1,0,1,0
+316,tu maza role model dista ahes,0,0,0,0,0,0
+317,madarchod kya karta hai,1,1,1,0,1,0
+318,aaj khup chan vatatay na?,0,0,0,0,0,0
+319,gandu kya karta hai,1,0,1,0,1,0
+320,tu khup talented dista ahes,0,0,0,0,0,0
+321,chutiya kya karta hai,1,0,1,0,1,0
+322,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+323,pagal kya karta hai,1,0,0,0,1,0
+324,tu khup sundar dista ahes,0,0,0,0,0,0
+325,abe kutta kya karta hai,1,0,1,0,1,0
+326,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+327,harami kya karta hai,1,0,1,0,1,0
+328,tu maza favorite dost dista ahes,0,0,0,0,0,0
+329,bakchod kya karta hai,1,0,1,0,1,0
+330,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+331,abe gandu kya karta hai,1,0,1,0,1,0
+332,tu kasa dista ahes aaj?,0,0,0,0,0,0
+333,ye chutiya kya karta hai,1,0,1,0,1,0
+334,aaj khup chan hava vatatay,0,0,0,0,0,0
+335,pagal kya karta hai,1,0,0,0,1,0
+336,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+337,harami kya karta hai,1,0,1,0,1,0
+338,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+339,kutta kya karta hai,1,0,1,0,1,0
+340,tu khup mast manus dista ahes,0,0,0,0,0,0
+341,abe randi kya karta hai,1,1,1,0,1,1
+342,tu khup smart dista ahes,0,0,0,0,0,0
+343,bakchod kya karta hai,1,0,1,0,1,0
+344,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+345,gandu kya karta hai,1,0,1,0,1,0
+346,aaj khup sundar divas ahe,0,0,0,0,0,0
+347,chutiya kya karta hai,1,0,1,0,1,0
+348,tu maza best friend dista ahes,0,0,0,0,0,0
+349,pagal kya karta hai,1,0,0,0,1,0
+350,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+351,abe harami kya karta hai,1,0,1,0,1,0
+352,tu khup hardworking dista ahes,0,0,0,0,0,0
+353,kutta kya karta hai,1,0,1,0,1,0
+354,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+355,bhenchod kya karta hai,1,1,1,0,1,0
+356,tu maza role model dista ahes,0,0,0,0,0,0
+357,madarchod kya karta hai,1,1,1,0,1,0
+358,aaj khup chan vatatay na?,0,0,0,0,0,0
+359,gandu kya karta hai,1,0,1,0,1,0
+360,tu khup talented dista ahes,0,0,0,0,0,0
+361,chutiya kya karta hai,1,0,1,0,1,0
+362,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+363,pagal kya karta hai,1,0,0,0,1,0
+364,tu khup sundar dista ahes,0,0,0,0,0,0
+365,abe kutta kya karta hai,1,0,1,0,1,0
+366,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+367,harami kya karta hai,1,0,1,0,1,0
+368,tu maza favorite dost dista ahes,0,0,0,0,0,0
+369,bakchod kya karta hai,1,0,1,0,1,0
+370,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+371,abe gandu kya karta hai,1,0,1,0,1,0
+372,tu kasa dista ahes aaj?,0,0,0,0,0,0
+373,ye chutiya kya,1,0,1,0,1,0
+374,aaj khup chan hava vatatay,0,0,0,0,0,0
+375,pagal kya karta hai,1,0,0,0,1,0
+376,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+377,harami kya karta hai,1,0,1,0,1,0
+378,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+379,kutta kya karta hai,1,0,1,0,1,0
+380,tu khup mast manus dista ahes,0,0,0,0,0,0
+381,abe randi kya karta hai,1,1,1,0,1,1
+382,tu khup smart dista ahes,0,0,0,0,0,0
+383,bakchod kya karta hai,1,0,1,0,1,0
+384,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+385,gandu kya karta hai,1,0,1,0,1,0
+386,aaj khup sundar divas ahe,0,0,0,0,0,0
+387,chutiya kya karta hai,1,0,1,0,1,0
+388,tu maza best friend dista ahes,0,0,0,0,0,0
+389,pagal kya karta hai,1,0,0,0,1,0
+390,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+391,abe harami kya karta hai,1,0,1,0,1,0
+392,tu khup hardworking dista ahes,0,0,0,0,0,0
+393,kutta kya karta hai,1,0,1,0,1,0
+394,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+395,bhenchod kya karta hai,1,1,1,0,1,0
+396,tu maza role model dista ahes,0,0,0,0,0,0
+397,madarchod kya karta hai,1,1,1,0,1,0
+398,aaj khup chan vatatay na?,0,0,0,0,0,0
+399,gandu kya karta hai,1,0,1,0,1,0
+400,tu khup talented dista ahes,0,0,0,0,0,0
+401,chutiya kya karta hai,1,0,1,0,1,0
+402,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+403,pagal kya karta hai,1,0,0,0,1,0
+404,tu khup sundar dista ahes,0,0,0,0,0,0
+405,abe kutta kya karta hai,1,0,1,0,1,0
+406,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+407,harami kya karta hai,1,0,1,0,1,0
+408,tu maza favorite dost dista ahes,0,0,0,0,0,0
+409,bakchod kya karta hai,1,0,1,0,1,0
+410,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+411,abe gandu kya karta hai,1,0,1,0,1,0
+412,tu kasa dista ahes aaj?,0,0,0,0,0,0
+413,ye chutiya kya,1,0,1,0,1,0
+414,aaj khup chan hava vatatay,0,0,0,0,0,0
+415,pagal kya karta hai?,1,0,0,0,1,0
+416,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+417,harami kya karta hai,1,0,1,0,1,0
+418,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+419,kutta kya karta hai,1,0,1,0,1,0
+420,tu khup mast manus dista ahes,0,0,0,0,0,0
+421,abe randi kya karta hai,1,1,1,0,1,1
+422,tu khup smart dist Vodka kya dista ahes,0,0,0,0,0,0
+423,bakchod kya karta hai,1,0,1,0,1,0
+424,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+425,gandu kya karta hai,1,0,1,0,1,0
+426,aaj khup sundar divas ahe,0,0,0,0,0,0
+427,chutiya kya karta hai,1,0,1,0,1,0
+428,tu maza best friend dista ahes,0,0,0,0,0,0
+429,pagal kya karta hai,1,0,0,0,1,0
+430,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+431,abe harami kya karta hai,1,0,1,0,1,0
+432,tu khup hardworking dista ahes,0,0,0,0,0,0
+433,kutta kya karta hai,1,0,1,0,1,0
+434,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+435,bhenchod kya karta hai,1,1,1,0,1,0
+436,tu maza role model dista ahes,0,0,0,0,0,0
+437,madarchod kya karta hai,1,1,1,0,1,0
+438,aaj khup chan vatatay na?,0,0,0,0,0,0
+439,gandu kya karta hai,1,0,1,0,1,0
+440,tu khup talented dista ahes,0,0,0,0,0,0
+441,chutiya kya karta hai,1,0,1,0,1,0
+442,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+443,pagal kya karta hai,1,0,0,0,1,0
+444,tu khup sundar dista ahes,0,0,0,0,0,0
+445,abe kutta kya karta hai,1,0,1,0,1,0
+446,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+447,harami kya karta hai,1,0,1,0,1,0
+448,tu maza favorite dost dista ahes,0,0,0,0,0,0
+449,bakchod kya karta hai,1,0,1,0,1,0
+450,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+451,abe gandu kya karta hai,1,0,1,0,1,0
+452,tu kasa dista ahes aaj?,0,0,0,0,0,0
+453,ye chutiya kya karta hai,1,0,1,0,1,0
+454,aaj khup chan hava vatatay,0,0,0,0,0,0
+455,pagal kya karta hai,1,0,0,0,1,0
+456,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+457,harami kya karta hai,1,0,1,0,1,0
+458,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+459,kutta kya karta hai,1,0,1,0,1,0
+460,tu khup mast dista ahes,0,0,0,0,0,0
+461,abe randi kya karta hai,1,1,1,0,1,1
+462,tu khup smart dista ahes,0,0,0,0,0,0
+463,bakchod kya karta hai,1,0,1,0,1,0
+464,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+465,gandu kya karta hai,1,0,1,0,1,0
+466,aaj khup sundar divas ahe,0,0,0,0,0,0
+467,chutiya kya karta hai,1,0,1,0,1,0
+468,tu maza best friend dista ahes,0,0,0,0,0,0
+469,pagal kya karta hai,1,0,0,0,1,0
+470,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+471,abe harami kya karta hai,1,0,1,0,1,0
+472,tu khup hardworking dista ahes,0,0,0,0,0,0
+473,kutta kya karta hai,1,0,1,0,1,0
+474,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+475,bhenchod kya karta hai,1,1,1,0,1,0
+476,tu maza role model dista ahes,0,0,0,0,0,0
+477,madarchod kya karta hai,1,1,1,0,1,0
+478,aaj khup chan vatatay na?,0,0,0,0,0,0
+479,gandu kya karta hai,1,0,1,0,1,0
+480,tu khup talented dista ahes,0,0,0,0,0,0
+481,chutiya kya karta hai,1,0,1,0,1,0
+482,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+483,pagal kya karta hai,1,0,0,0,1,0
+484,tu khup sundar dista ahes,0,0,0,0,0,0
+485,abe kutta kya karta hai,1,0,1,0,1,0
+486,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+487,harami kya karta hai,1,0,1,0,1,0
+488,tu maza favorite dost dista ahes,0,0,0,0,0,0
+489,bakchod kya karta hai,1,0,1,0,1,0
+490,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+491,abe gandu kya karta hai,1,0,1,0,1,0
+492,tu kasa dista ahes aaj?,0,0,0,0,0,0
+493,ye chutiya kya,1,0,1,0,1,0
+494,aaj khup chan hava vatatay,0,0,0,0,0,0
+495,pagal kya karta hai?,1,0,0,0,1,0
+496,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+497,harami kya karta hai,1,0,1,0,1,0
+498,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+499,kutta kya karta hai,1,0,1,0,1,0
+500,tu khup mast dista ahes,0,0,0,0,0,0
+501,abe randi kya karta hai,1,1,1,0,1,1
+502,tu khup smart dista ahes,0,0,0,0,0,0
+503,bakchod kya karta hai,1,0,1,0,1,0
+504,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+505,gandu kya karta hai,1,0,1,0,1,0
+506,aaj khup sundar divas ahe,0,0,0,0,0,0
+507,chutiya kya karta hai,1,0,1,0,1,0
+508,tu maza best friend dista ahes,0,0,0,0,0,0
+509,pagal kya karta hai,1,0,0,0,1,0
+510,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+511,abe harami kya karta hai,1,0,1,0,1,0
+512,tu khup hardworking dista ahes,0,0,0,0,0,0
+513,kutta kya karta hai,1,0,1,0,1,0
+514,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+515,bhenchod kya karta hai,1,1,1,0,1,0
+516,tu maza role model dista ahes,0,0,0,0,0,0
+517,madarchod kya karta hai,1,1,1,0,1,0
+518,aaj khup chan vatatay na?,0,0,0,0,0,0
+519,gandu kya karta hai,1,0,1,0,1,0
+520,tu khup talented dista ahes,0,0,0,0,0,0
+521,chutiya kya karta hai,1,0,1,0,1,0
+522,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+523,pagal kya karta hai,1,0,0,0,1,0
+524,tu khup sundar dista ahes,0,0,0,0,0,0
+525,abe kutta kya karta hai,1,0,1,0,1,0
+526,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+527,harami kya karta hai,1,0,1,0,1,0
+528,tu maza favorite dost ahes,0,0,0,0,0,0
+529,bakchod kya karta hai,1,0,1,0,1,0
+530,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+531,abe gandu kya karta hai,1,0,1,0,1,0
+532,tu kasa dista ahes aaj?,0,0,0,0,0,0
+533,ye chutiya kya karta hai,1,0,1,0,1,0
+534,aaj khup chan hava vatatay,0,0,0,0,0,0
+535,pagal kya karta hai,1,0,0,0,1,0
+536,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+537,harami kya karta hai,1,0,1,0,1,0
+538,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+539,kutta kya karta hai,1,0,1,0,1,0
+540,tu khup mast dista ahes,0,0,0,0,0,0
+541,abe randi kya karta hai,1,1,1,0,1,1
+542,tu khup smart dista ahes,0,0,0,0,0,0
+543,bakchod kya karta hai,1,0,1,0,1,0
+544,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+545,gandu kya karta hai,1,0,1,0,1,0
+546,aaj khup sundar divas ahe,0,0,0,0,0,0
+547,chutiya kya karta hai,1,0,1,0,1,0
+548,tu maza best friend dista ahes,0,0,0,0,0,0
+549,pagal kya karta hai,1,0,0,0,1,0
+550,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+551,abe harami kya karta hai,1,0,1,0,1,0
+552,abe gandu kya bolta hai,1,0,1,0,1,0
+553,tu kasa ahes?,0,0,0,0,0,0
+554,ye pagal kya kar raha hai,1,0,0,0,1,0
+555,aaj khup chan vatatay,0,0,0,0,0,0
+556,tu chutiya hai kya?,1,0,1,0,1,0
+557,mazya dostala bhetun khush zalo,0,0,0,0,0,0
+558,bhenchod band kar ye bakwas,1,1,1,0,1,0
+559,tu khup sundar distes,0,0,0,0,0,0
+560,madarchod kahi ka,1,1,1,0,1,0
+561,aaj khup thandi ahe,0,0,0,0,0,0
+562,gandu mat bol yar,1,0,1,0,1,0
+563,tula kahi problem ahe ka?,0,0,0,0,0,0
+564,chutiya sala kya sochta hai,1,0,1,0,1,0
+565,mi tula khup miss karto,0,0,0,0,0,0
+566,pagalpan band kar abhi,1,0,0,0,1,0
+567,tu maza hero ahes,0,0,0,0,0,0
+568,abe harami kya chal raha,1,0,1,0,1,0
+569,kal khup majja keli,0,0,0,0,0,0
+570,tu kutta hai kya,1,0,1,0,1,0
+571,mi tula prem karto,0,0,0,0,0,0
+572,abe randi kya bolti hai,1,1,1,0,1,1
+573,tu khup smart ahes,0,0,0,0,0,0
+574,ye bakchod kya karta hai,1,0,1,0,1,0
+575,mi khup khush ahe,0,0,0,0,0,0
+576,tu gandu sala hai,1,0,1,0,1,0
+577,aaj khup divas chan ahe,0,0,0,0,0,0
+578,chutiya kya soch raha hai,1,0,1,0,1,0
+579,tu mazi best friend ahes,0,0,0,0,0,0
+580,abe kutta band kar,1,0,1,0,1,0
+581,mi tujhya sobat time ghala,0,0,0,0,0,0
+582,pagal kahi ka mat bol,1,0,0,0,1,0
+583,tula kasa vatata ahe?,0,0,0,0,0,0
+584,harami kya chal raha hai,1,0,1,0,1,0
+585,mi tujhya sobat khush ahe,0,0,0,0,0,0
+586,bhenchod kya kar raha hai,1,1,1,0,1,0
+587,tu khup talent ahes,0,0,0,0,0,0
+588,madarchod kya bolta hai,1,1,1,0,1,0
+589,aaj khup chan hava ahe,0,0,0,0,0,0
+590,gandu kya sochta hai,1,0,1,0,1,0
+591,tu maza favorite ahes,0,0,0,0,0,0
+592,chutiya kahi ka,1,0,1,0,1,0
+593,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+594,pagal mat kar abhi,1,0,0,0,1,0
+595,tu khup mast distes,0,0,0,0,0,0
+596,abe kutta kya bolta hai,1,0,1,0,1,0
+597,mi tujhya sobat time pass karto,0,0,0,0,0,0
+598,harami band kar ye,1,0,1,0,1,0
+599,tu khup intelligent ahes,0,0,0,0,0,0
+600,bakchod kya kar raha hai,1,0,1,0,1,0
+601,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+602,abe gandu kya sochta hai,1,0,1,0,1,0
+603,tu kasa dista ahes?,0,0,0,0,0,0
+604,ye chutiya kya bolta hai,1,0,1,0,1,0
+605,aaj khup sundar divas ahe,0,0,0,0,0,0
+606,pagal kya kar raha hai,1,0,0,0,1,0
+607,tu maza khup chan dost ahes,0,0,0,0,0,0
+608,harami kya karta hai,1,0,1,0,1,0
+609,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+610,kutta kya sochta hai,1,0,1,0,1,0
+611,tu khup helpful ahes,0,0,0,0,0,0
+612,abe randi kya kar raha,1,1,1,0,1,1
+613,tu khup chan manus ahes,0,0,0,0,0,0
+614,bakchod mat bol yar,1,0,1,0,1,0
+615,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+616,gandu kya chal raha hai,1,0,1,0,1,0
+617,aaj khup mast mood ahe,0,0,0,0,0,0
+618,chutiya kya karta hai,1,0,1,0,1,0
+619,tu maza inspiration ahes,0,0,0,0,0,0
+620,pagal band kar abhi,1,0,0,0,1,0
+621,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+622,abe harami kya sochta hai,1,0,1,0,1,0
+623,tu khup hardworking ahes,0,0,0,0,0,0
+624,kutta kya kar raha hai,1,0,1,0,1,0
+625,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+626,bhenchod kya bolta hai,1,1,1,0,1,0
+627,tu maza role model ahes,0,0,0,0,0,0
+628,madarchod kya karta hai,1,1,1,0,1,0
+629,aaj khup chan vatatay na?,0,0,0,0,0,0
+630,gandu kya karta hai,1,0,1,0,1,0
+631,tu khup talented ahes,0,0,0,0,0,0
+632,chutiya mat bol yar,1,0,1,0,1,0
+633,mi tujhya sobat khup time kela,0,0,0,0,0,0
+634,pagal kya sochta hai,1,0,0,0,1,0
+635,tu khup sundar ahes,0,0,0,0,0,0
+636,abe kutta kya bolta hai,1,0,1,0,1,0
+637,mi tujhya sobat khup majja keli,0,0,0,0,0,0
+638,harami kya bolta hai,1,0,1,0,1,0
+639,tu maza favorite dost ahes,0,0,0,0,0,0
+640,bakchod kya sochta hai,1,0,1,0,1,0
+641,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+642,abe gandu kya karta hai,1,0,1,0,1,0
+643,tu kasa ahes aaj?,0,0,0,0,0,0
+644,ye chutiya kya karta hai,1,0,1,0,1,0
+645,aaj khup chan hava vatatay,0,0,0,0,0,0
+646,pagal kya bolta hai,1,0,0,0,1,0
+647,tu maza khup chan friend ahes,0,0,0,0,0,0
+648,harami kya sochta hai,1,0,1,0,1,0
+649,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+650,kutta kya bolta hai,1,0,1,0,1,0
+651,tu khup mast manus ahes,0,0,0,0,0,0
+652,abe randi kya sochta hai,1,1,1,0,1,1
+653,tu khup smart dista ahes,0,0,0,0,0,0
+654,bakchod kya bolta hai,1,0,1,0,1,0
+655,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+656,gandu kya sochta hai,1,0,1,0,1,0
+657,aaj khup sundar divas ahe,0,0,0,0,0,0
+658,chutiya kya sochta hai,1,0,1,0,1,0
+659,tu maza best friend ahes,0,0,0,0,0,0
+660,pagal kya karta hai,1,0,0,0,1,0
+661,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+662,abe harami kya karta hai,1,0,1,0,1,0
+663,tu khup hardworking dista ahes,0,0,0,0,0,0
+664,kutta kya sochta hai,1,0,1,0,1,0
+665,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+666,bhenchod kya sochta hai,1,1,1,0,1,0
+667,tu maza role model ahes,0,0,0,0,0,0
+668,madarchod kya sochta hai,1,1,1,0,1,0
+669,aaj khup chan vatatay na?,0,0,0,0,0,0
+670,gandu kya bolta hai,1,0,1,0,1,0
+671,tu khup talented dista ahes,0,0,0,0,0,0
+672,chutiya kya bolta hai,1,0,1,0,1,0
+673,mi tujhya sobat khup time kela,0,0,0,0,0,0
+674,pagal kya sochta hai,1,0,0,0,1,0
+675,tu khup sundar dista ahes,0,0,0,0,0,0
+676,abe kutta kya sochta hai,1,0,1,0,1,0
+677,mi tujhya sobat khup majja keli,0,0,0,0,0,0
+678,harami kya karta hai,1,0,1,0,1,0
+679,tu maza favorite dost dista ahes,0,0,0,0,0,0
+680,bakchod kya karta hai,1,0,1,0,1,0
+681,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+682,abe gandu kya karta hai,1,0,1,0,1,0
+683,tu kasa dista ahes aaj?,0,0,0,0,0,0
+684,ye chutiya kya karta hai,1,0,1,0,1,0
+685,aaj khup chan hava vatatay,0,0,0,0,0,0
+686,pagal kya karta hai,1,0,0,0,1,0
+687,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+688,harami kya karta hai,1,0,1,0,1,0
+689,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+690,kutta kya karta hai,1,0,1,0,1,0
+691,tu khup mast manus dista ahes,0,0,0,0,0,0
+692,abe randi kya karta hai,1,1,1,0,1,1
+693,tu khup smart dista ahes,0,0,0,0,0,0
+694,bakchod kya karta hai,1,0,1,0,1,0
+695,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+696,gandu kya karta hai,1,0,1,0,1,0
+697,aaj khup sundar divas ahe,0,0,0,0,0,0
+698,chutiya kya karta hai,1,0,1,0,1,0
+699,tu maza best friend dista ahes,0,0,0,0,0,0
+700,pagal kya karta hai,1,0,0,0,1,0
+701,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+702,abe harami kya karta hai,1,0,1,0,1,0
+703,tu khup hardworking dista ahes,0,0,0,0,0,0
+704,kutta kya karta hai,1,0,1,0,1,0
+705,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+706,bhenchod kya karta hai,1,1,1,0,1,0
+707,tu maza role model dista ahes,0,0,0,0,0,0
+708,madarchod kya karta hai,1,1,1,0,1,0
+709,aaj khup chan vatatay na?,0,0,0,0,0,0
+710,gandu kya karta hai,1,0,1,0,1,0
+711,tu khup talented dista ahes,0,0,0,0,0,0
+712,chutiya kya karta hai,1,0,1,0,1,0
+713,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+714,pagal kya karta hai,1,0,0,0,1,0
+715,tu khup sundar dista ahes,0,0,0,0,0,0
+716,abe kutta kya karta hai,1,0,1,0,1,0
+717,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+718,harami kya karta hai,1,0,1,0,1,0
+719,tu maza favorite dost dista ahes,0,0,0,0,0,0
+720,bakchod kya karta hai,1,0,1,0,1,0
+721,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+722,abe gandu kya karta hai,1,0,1,0,1,0
+723,tu kasa dista ahes aaj?,0,0,0,0,0,0
+724,ye chutiya kya karta hai,1,0,1,0,1,0
+725,aaj khup chan hava vatatay,0,0,0,0,0,0
+726,pagal kya karta hai,1,0,0,0,1,0
+727,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+728,harami kya karta hai,1,0,1,0,1,0
+729,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+730,kutta kya karta hai,1,0,1,0,1,0
+731,tu khup mast manus dista ahes,0,0,0,0,0,0
+732,abe randi kya karta hai,1,1,1,0,1,1
+733,tu khup smart dista ahes,0,0,0,0,0,0
+734,bakchod kya karta hai,1,0,1,0,1,0
+735,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+736,gandu kya karta hai,1,0,1,0,1,0
+737,aaj khup sundar divas ahe,0,0,0,0,0,0
+738,chutiya kya karta hai,1,0,1,0,1,0
+739,tu maza best friend dista ahes,0,0,0,0,0,0
+740,pagal kya karta hai,1,0,0,0,1,0
+741,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+742,abe harami kya karta hai,1,0,1,0,1,0
+743,tu khup hardworking dista ahes,0,0,0,0,0,0
+744,kutta kya karta hai,1,0,1,0,1,0
+745,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+746,bhenchod kya karta hai,1,1,1,0,1,0
+747,tu maza role model dista ahes,0,0,0,0,0,0
+748,madarchod kya karta hai,1,1,1,0,1,0
+749,aaj khup chan vatatay na?,0,0,0,0,0,0
+750,gandu kya karta hai,1,0,1,0,1,0
+751,tu khup talented dista ahes,0,0,0,0,0,0
+752,chutiya kya karta hai,1,0,1,0,1,0
+753,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+754,pagal kya karta hai,1,0,0,0,1,0
+755,tu khup sundar dista ahes,0,0,0,0,0,0
+756,abe kutta kya karta hai,1,0,1,0,1,0
+757,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+758,harami kya karta hai,1,0,1,0,1,0
+759,tu maza favorite dost dista ahes,0,0,0,0,0,0
+760,bakchod kya karta hai,1,0,1,0,1,0
+761,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+762,abe gandu kya karta hai,1,0,1,0,1,0
+763,tu kasa dista ahes aaj?,0,0,0,0,0,0
+764,ye chutiya kya karta hai,1,0,1,0,1,0
+765,aaj khup chan hava vatatay,0,0,0,0,0,0
+766,pagal kya karta hai,1,0,0,0,1,0
+767,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+768,harami kya karta hai,1,0,1,0,1,0
+769,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+770,kutta kya karta hai,1,0,1,0,1,0
+771,tu khup mast manus dista ahes,0,0,0,0,0,0
+772,abe randi kya karta hai,1,1,1,0,1,1
+773,tu khup smart dista ahes,0,0,0,0,0,0
+774,bakchod kya karta hai,1,0,1,0,1,0
+775,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+776,gandu kya karta hai,1,0,1,0,1,0
+777,aaj khup sundar divas ahe,0,0,0,0,0,0
+778,chutiya kya karta hai,1,0,1,0,1,0
+779,tu maza best friend dista ahes,0,0,0,0,0,0
+780,pagal kya karta hai,1,0,0,0,1,0
+781,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+782,abe harami kya karta hai,1,0,1,0,1,0
+783,tu khup hardworking dista ahes,0,0,0,0,0,0
+784,kutta kya karta hai,1,0,1,0,1,0
+785,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+786,bhenchod kya karta hai,1,1,1,0,1,0
+787,tu maza role model dista ahes,0,0,0,0,0,0
+788,madarchod kya karta hai,1,1,1,0,1,0
+789,aaj khup chan vatatay na?,0,0,0,0,0,0
+790,gandu kya karta hai,1,0,1,0,1,0
+791,tu khup talented dista ahes,0,0,0,0,0,0
+792,chutiya kya karta hai,1,0,1,0,1,0
+793,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+794,pagal kya karta hai,1,0,0,0,1,0
+795,tu khup sundar dista ahes,0,0,0,0,0,0
+796,abe kutta kya karta hai,1,0,1,0,1,0
+797,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+798,harami kya karta hai,1,0,1,0,1,0
+799,tu maza favorite dost dista ahes,0,0,0,0,0,0
+800,bakchod kya karta hai,1,0,1,0,1,0
+801,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+802,abe gandu kya karta hai,1,0,1,0,1,0
+803,tu kasa dista ahes aaj?,0,0,0,0,0,0
+804,ye chutiya kya karta hai,1,0,1,0,1,0
+805,aaj khup chan hava vatatay,0,0,0,0,0,0
+806,pagal kya karta hai,1,0,0,0,1,0
+807,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+808,harami kya karta hai,1,0,1,0,1,0
+809,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+810,kutta kya karta hai,1,0,1,0,1,0
+811,tu khup mast manus dista ahes,0,0,0,0,0,0
+812,abe randi kya karta hai,1,1,1,0,1,1
+813,tu khup smart dista ahes,0,0,0,0,0,0
+814,bakchod kya karta hai,1,0,1,0,1,0
+815,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+816,gandu kya karta hai,1,0,1,0,1,0
+817,aaj khup sundar divas ahe,0,0,0,0,0,0
+818,chutiya kya karta hai,1,0,1,0,1,0
+819,tu maza best friend dista ahes,0,0,0,0,0,0
+820,pagal kya karta hai,1,0,0,0,1,0
+821,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+822,abe harami kya karta hai,1,0,1,0,1,0
+823,tu khup hardworking dista ahes,0,0,0,0,0,0
+824,kutta kya karta hai,1,0,1,0,1,0
+825,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+826,bhenchod kya karta hai,1,1,1,0,1,0
+827,tu maza role model dista ahes,0,0,0,0,0,0
+828,madarchod kya karta hai,1,1,1,0,1,0
+829,aaj khup chan vatatay na?,0,0,0,0,0,0
+830,gandu kya karta hai,1,0,1,0,1,0
+831,tu khup talented dista ahes,0,0,0,0,0,0
+832,chutiya kya karta hai,1,0,1,0,1,0
+833,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+834,pagal kya karta hai,1,0,0,0,1,0
+835,tu khup sundar dista ahes,0,0,0,0,0,0
+836,abe kutta kya karta hai,1,0,1,0,1,0
+837,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+838,harami kya karta hai,1,0,1,0,1,0
+839,tu maza favorite dost dista ahes,0,0,0,0,0,0
+840,bakchod kya karta hai,1,0,1,0,1,0
+841,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+842,abe gandu kya karta hai,1,0,1,0,1,0
+843,tu kasa dista ahes aaj?,0,0,0,0,0,0
+844,ye chutiya kya karta hai,1,0,1,0,1,0
+845,aaj khup chan hava vatatay,0,0,0,0,0,0
+846,pagal kya karta hai,1,0,0,0,1,0
+847,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+848,harami kya karta hai,1,0,1,0,1,0
+849,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+850,kutta kya karta hai,1,0,1,0,1,0
+851,tu khup mast manus dista ahes,0,0,0,0,0,0
+852,abe randi kya karta hai,1,1,1,0,1,1
+853,tu khup smart dista ahes,0,0,0,0,0,0
+854,bakchod kya karta hai,1,0,1,0,1,0
+855,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+856,gandu kya karta hai,1,0,1,0,1,0
+857,aaj khup sundar divas ahe,0,0,0,0,0,0
+858,chutiya kya karta hai,1,0,1,0,1,0
+859,tu maza best friend dista ahes,0,0,0,0,0,0
+860,pagal kya karta hai,1,0,0,0,1,0
+861,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+862,abe harami kya karta hai,1,0,1,0,1,0
+863,tu khup hardworking dista ahes,0,0,0,0,0,0
+864,kutta kya karta hai,1,0,1,0,1,0
+865,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+866,bhenchod kya karta hai,1,1,1,0,1,0
+867,tu maza role model dista ahes,0,0,0,0,0,0
+868,madarchod kya karta hai,1,1,1,0,1,0
+869,aaj khup chan vatatay na?,0,0,0,0,0,0
+870,gandu kya karta hai,1,0,1,0,1,0
+871,tu khup talented dista ahes,0,0,0,0,0,0
+872,chutiya kya karta hai,1,0,1,0,1,0
+873,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+874,pagal kya karta hai,1,0,0,0,1,0
+875,tu khup sundar dista ahes,0,0,0,0,0,0
+876,abe kutta kya karta hai,1,0,1,0,1,0
+877,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+878,harami kya karta hai,1,0,1,0,1,0
+879,tu maza favorite dost dista ahes,0,0,0,0,0,0
+880,bakchod kya karta hai,1,0,1,0,1,0
+881,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+882,abe gandu kya karta hai,1,0,1,0,1,0
+883,tu kasa dista ahes aaj?,0,0,0,0,0,0
+884,ye chutiya kya karta hai,1,0,1,0,1,0
+885,aaj khup chan hava vatatay,0,0,0,0,0,0
+886,pagal kya karta hai,1,0,0,0,1,0
+887,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+888,harami kya karta hai,1,0,1,0,1,0
+889,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+890,kutta kya karta hai,1,0,1,0,1,0
+891,tu khup mast manus dista ahes,0,0,0,0,0,0
+892,abe randi kya karta hai,1,1,1,0,1,1
+893,tu khup smart dista ahes,0,0,0,0,0,0
+894,bakchod kya karta hai,1,0,1,0,1,0
+895,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+896,gandu kya karta hai,1,0,1,0,1,0
+897,aaj khup sundar divas ahe,0,0,0,0,0,0
+898,chutiya kya karta hai,1,0,1,0,1,0
+899,tu maza best friend dista ahes,0,0,0,0,0,0
+900,pagal kya karta hai,1,0,0,0,1,0
+901,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+902,abe harami kya karta hai,1,0,1,0,1,0
+903,tu khup hardworking dista ahes,0,0,0,0,0,0
+904,kutta kya karta hai,1,0,1,0,1,0
+905,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+906,bhenchod kya karta hai,1,1,1,0,1,0
+907,tu maza role model dista ahes,0,0,0,0,0,0
+908,madarchod kya karta hai,1,1,1,0,1,0
+909,aaj khup chan vatatay na?,0,0,0,0,0,0
+910,gandu kya karta hai,1,0,1,0,1,0
+911,tu khup talented dista ahes,0,0,0,0,0,0
+912,chutiya kya karta hai,1,0,1,0,1,0
+913,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+914,pagal kya karta hai,1,0,0,0,1,0
+915,tu khup sundar dista ahes,0,0,0,0,0,0
+916,abe kutta kya karta hai,1,0,1,0,1,0
+917,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+918,harami kya karta hai,1,0,1,0,1,0
+919,tu maza favorite dost dista ahes,0,0,0,0,0,0
+920,bakchod kya karta hai,1,0,1,0,1,0
+921,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+922,abe gandu kya karta hai,1,0,1,0,1,0
+923,tu kasa dista ahes aaj?,0,0,0,0,0,0
+924,ye chutiya kya karta hai,1,0,1,0,1,0
+925,aaj khup chan hava vatatay,0,0,0,0,0,0
+926,pagal kya karta hai,1,0,0,0,1,0
+927,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+928,harami kya karta hai,1,0,1,0,1,0
+929,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+930,kutta kya karta hai,1,0,1,0,1,0
+931,tu khup mast manus dista ahes,0,0,0,0,0,0
+932,abe randi kya karta hai,1,1,1,0,1,1
+933,tu khup smart dista ahes,0,0,0,0,0,0
+934,bakchod kya karta hai,1,0,1,0,1,0
+935,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+936,gandu kya karta hai,1,0,1,0,1,0
+937,aaj khup sundar divas ahe,0,0,0,0,0,0
+938,chutiya kya karta hai,1,0,1,0,1,0
+939,tu maza best friend dista ahes,0,0,0,0,0,0
+940,pagal kya karta hai,1,0,0,0,1,0
+941,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+942,abe harami kya karta hai,1,0,1,0,1,0
+943,tu khup hardworking dista ahes,0,0,0,0,0,0
+944,kutta kya karta hai,1,0,1,0,1,0
+945,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+946,bhenchod kya karta hai,1,1,1,0,1,0
+947,tu maza role model dista ahes,0,0,0,0,0,0
+948,madarchod kya karta hai,1,1,1,0,1,0
+949,aaj khup chan vatatay na?,0,0,0,0,0,0
+950,gandu kya karta hai,1,0,1,0,1,0
+951,tu khup talented dista ahes,0,0,0,0,0,0
+952,chutiya kya karta hai,1,0,1,0,1,0
+953,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+954,pagal kya karta hai,1,0,0,0,1,0
+955,tu khup sundar dista ahes,0,0,0,0,0,0
+956,abe kutta kya karta hai,1,0,1,0,1,0
+957,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+958,harami kya karta hai,1,0,1,0,1,0
+959,tu maza favorite dost dista ahes,0,0,0,0,0,0
+960,bakchod kya karta hai,1,0,1,0,1,0
+961,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+962,abe gandu kya karta hai,1,0,1,0,1,0
+963,tu kasa dista ahes aaj?,0,0,0,0,0,0
+964,ye chutiya kya karta hai,1,0,1,0,1,0
+965,aaj khup chan hava vatatay,0,0,0,0,0,0
+966,pagal kya karta hai,1,0,0,0,1,0
+967,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+968,harami kya karta hai,1,0,1,0,1,0
+969,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+970,kutta kya karta hai,1,0,1,0,1,0
+971,tu khup mast manus dista ahes,0,0,0,0,0,0
+972,abe randi kya karta hai,1,1,1,0,1,1
+973,tu khup smart dista ahes,0,0,0,0,0,0
+974,bakchod kya karta hai,1,0,1,0,1,0
+975,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+976,gandu kya karta hai,1,0,1,0,1,0
+977,aaj khup sundar divas ahe,0,0,0,0,0,0
+978,chutiya kya karta hai,1,0,1,0,1,0
+979,tu maza best friend dista ahes,0,0,0,0,0,0
+980,pagal kya karta hai,1,0,0,0,1,0
+981,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+982,abe harami kya karta hai,1,0,1,0,1,0
+983,tu khup hardworking dista ahes,0,0,0,0,0,0
+984,kutta kya karta hai,1,0,1,0,1,0
+985,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+986,bhenchod kya karta hai,1,1,1,0,1,0
+987,tu maza role model dista ahes,0,0,0,0,0,0
+988,madarchod kya karta hai,1,1,1,0,1,0
+989,aaj khup chan vatatay na?,0,0,0,0,0,0
+990,gandu kya karta hai,1,0,1,0,1,0
+991,tu khup talented dista ahes,0,0,0,0,0,0
+992,chutiya kya karta hai,1,0,1,0,1,0
+993,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+994,pagal kya karta hai,1,0,0,0,1,0
+995,tu khup sundar dista ahes,0,0,0,0,0,0
+996,abe kutta kya karta hai,1,0,1,0,1,0
+997,mi tujhya sobat khup enjoy kela,0,0,0,0,0,0
+998,harami kya karta hai,1,0,1,0,1,0
+999,tu maza favorite dost dista ahes,0,0,0,0,0,0
+1000,bakchod kya karta hai,1,0,1,0,1,0
+1001,mi tujhya sobat khup khush ahe,0,0,0,0,0,0
+1002,abe gandu kya karta hai,1,0,1,0,1,0
+1003,tu kasa dista ahes aaj?,0,0,0,0,0,0
+1004,ye chutiya kya karta hai,1,0,1,0,1,0
+1005,aaj khup chan hava vatatay,0,0,0,0,0,0
+1006,pagal kya karta hai,1,0,0,0,1,0
+1007,tu maza khup chan friend dista ahes,0,0,0,0,0,0
+1008,harami kya karta hai,1,0,1,0,1,0
+1009,mi tujhya sobat khup time pass kela,0,0,0,0,0,0
+1010,kutta kya karta hai,1,0,1,0,1,0
+1011,tu khup mast dista ahes,0,0,0,0,0,0
+1012,abe randi kya karta hai,1,1,1,0,1,1
+1013,tu khup smart dista ahes,0,0,0,0,0,0
+1014,bakchod kya karta hai,1,0,1,0,1,0
+1015,mi tujhya sobat khup enjoy karto,0,0,0,0,0,0
+1016,gandu kya karta hai,1,0,1,0,1,0
+1017,aaj khup sundar divas ahe,0,0,0,0,0,0
+1018,chutiya kya karta hai,1,0,1,0,1,0
+1019,tu maza best friend dista ahes,0,0,0,0,0,0
+1020,pagal kya karta hai,1,0,0,0,1,0
+1021,mi tujhya sobat khup khush hoto,0,0,0,0,0,0
+1022,abe harami kya karta hai,1,0,1,0,1,0
+1023,tu khup hardworking dista ahes,0,0,0,0,0,0
+1024,kutta kya karta hai,1,0,1,0,1,0
+1025,mi tujhya sobat khup time ghala,0,0,0,0,0,0
+1026,bhenchod kya karta hai,1,1,1,0,1,0
+1027,tu maza role model dista ahes,0,0,0,0,0,0
+1028,madarchod kya karta hai,1,1,1,0,1,0
+1029,aaj khup chan vatatay na?,0,0,0,0,0,0
+1030,gandu kya karta hai,1,0,1,0,1,0
+1031,tu khup talented dista ahes,0,0,0,0,0,0
+1032,chutiya kya karta hai,1,0,1,0,1,0
+1033,mi tujhya sobat khup majja karto,0,0,0,0,0,0
+1034,pagal kya karta hai,1,0,0,0,1,0
+1035,tu khup sundar dista ahes,0,0,0,0,0,0
+1036,abe kutta kya karta hai,1,0,1,0,1,1
+1036,are murkha,1,0,1,1,1,1
