@@ -12,4 +12,9 @@ files = [
 ]
 for file, path in files:
     os.makedirs(path, exist_ok=True)
-    hf_hub_download(repo_id=repo_id, filename=file, local_dir=path)
+    hf_hub_download(
+        repo_id=repo_id,
+        filename=file,
+        local_dir=path,
+        client_kwargs={"timeout": 60}  # Increase timeout to 60 seconds
+    )
